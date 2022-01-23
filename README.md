@@ -1,6 +1,6 @@
 # Amman
 
-**A** **m** odern **man** datory toolbelt to help test solana SDK libraries and apps on a locally
+**A** **m** odern **man** datory toolbelt to help test safecoin SDK libraries and apps on a locally
 running validator.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -26,7 +26,7 @@ transactions, asserts and more via an API. Please find the [API docs here](https
 amman [command]
 
 Commands:
-  amman validator [config]  Launches a solana-test-validator
+  amman validator [config]  Launches a safecoin-test-validator
 
 Options:
   --help     Show help                                                 [boolean]
